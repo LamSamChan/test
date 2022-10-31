@@ -60,7 +60,10 @@
         <StackPanel Height="200" Background="Aqua">
 
         </StackPanel>
-        
+        <StackPanel Height="100" Background="Red">
+
+        </StackPanel>
+
 
     </Grid>
 </Window>
