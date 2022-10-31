@@ -16,6 +16,8 @@
         <TextBlock>2 3 con muc</TextBlock>
         <Grid>
             <Button>Thao</Button>
+            <Button>Thao</Button>
+            <Button>Thao</Button>
         </Grid>
     </Grid>
 </Window>
