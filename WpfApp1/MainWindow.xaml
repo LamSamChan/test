@@ -16,6 +16,8 @@
         <TextBlock>2 3 con muc</TextBlock>
         <Grid Width="200" HorizontalAlignment="Right">
             <Button>Thao</Button>
+            <Button>Thao</Button>
+            <Button>Thao</Button>
         </Grid>
         <TextBlock>2 3 con mu sssc</TextBlock>
         <TextBlock>2 3 con mu sssc</TextBlock>
