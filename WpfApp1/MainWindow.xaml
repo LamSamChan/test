@@ -8,7 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBlock>123</TextBlock>
-        
+
         <TextBlock>2 3 con muc</TextBlock>
+        <TextBlock>Anh yêu e cực</TextBlock>
     </Grid>
 </Window>
